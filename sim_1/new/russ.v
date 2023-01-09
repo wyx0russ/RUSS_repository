@@ -47,3 +47,4 @@ always #10 sys_clk_i = ~sys_clk_i;	//50MHz时钟产生
 	
 endmodule
 //这是个测试
+//这是个测试plus
